@@ -1,5 +1,5 @@
 # Project NLP
-In this NLP project, we harness the capabilities of Scikit-learn and NLTK libraries to delve into sentiment analysis. One of the captivating projects I have undertaken involves the classification of film genres and restaurant reviews, determining their sentiment as either positive or negative based on user feedback.
+In this NLP project, we harness the capabilities of Scikit-learn and NLTK libraries to delve into sentiment analysis. One of the captivating projects I have undertaken involves the classification of film genres, covid vaccine and restaurant reviews, determining their sentiment as either positive or negative based on user feedback.
 
 ![popular_word](img/output.png)
 # Web Application for Sentiment Analysis of Restaurant Reviews
